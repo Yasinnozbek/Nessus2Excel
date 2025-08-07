@@ -12,8 +12,9 @@ Not: Yalnızca Severity 1 ve üzeri zafiyetler Excel rapor çıktısına eklenir
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Kullanım
 ```bash
 ./n2e.py path/to/file.nessus -o output.xlsx
+```
